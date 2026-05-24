@@ -1,5 +1,5 @@
 <svg width="100%" height="80" viewBox="0 0 * 80" preserveAspectRatio="xMinYMid meet" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="80" fill="#1a1a1a"/>
+  <rect width="100%" height="80" fill="#0d1117"/>
   <path d="M45 25h35v22H45zM52 47h20v3H52z" fill="none" stroke="#FFC107" stroke-width="2"/>
   <rect x="49" y="29" width="27" height="14" fill="#FFC107" opacity="0.3"/>
   <text x="95" y="42" font-family="monospace" font-size="26" fill="#ffffff" font-weight="bold">HOSTED PROJECTS</text>
