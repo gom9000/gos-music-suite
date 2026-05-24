@@ -6,9 +6,16 @@ The projects collected here range from bare-metal firmware designed to make vint
 
 ---
 
-### BOX Projects
-<br/><img src="resources/banner-box-project.svg" width="100%" alt="BOX Project Banner">
-BOX Projects are dedicated hardware units designed to solve specific audio management tasks.
+
+
+<svg width="100%" height="80" viewBox="0 0 * 80" preserveAspectRatio="xMinYMid meet" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="80" fill="#1a1a1a"/>
+  <path d="M45 20h30v30H45z" fill="none" stroke="#4CAF50" stroke-width="2"/>
+  <path d="M50 25h20v20H50z" fill="#4CAF50" opacity="0.3"/>
+  <text x="95" y="42" font-family="monospace" font-size="26" fill="#ffffff" font-weight="bold">BOX PROJECTS</text>
+  <text x="95" y="62" font-family="monospace" font-size="12" fill="#888888">DEDICATED HARDWARE UNITS FOR AUDIO MANAGEMENT TASKS</text>
+  <line x1="45" y1="72" x2="100%" y2="72" stroke="#333" stroke-width="1"/>
+</svg>
 
 >**[MusicalBOX](https://github.com/gom9000/MusicalBOX)**<br/>
 >**Type**: Sampler Player | **Status**: Completed
@@ -33,9 +40,15 @@ BOX Projects are dedicated hardware units designed to solve specific audio manag
 
 ---
 
-### Standalone Projects
-<br/><img src="resources/banner-standalone-project.svg" width="100%" alt="Standalone Project Banner">
-...
+
+<svg width="100%" height="80" viewBox="0 0 * 80" preserveAspectRatio="xMinYMid meet" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="80" fill="#1a1a1a"/>
+  <circle cx="60" cy="35" r="18" fill="none" stroke="#2196F3" stroke-width="2"/>
+  <circle cx="60" cy="35" r="8" fill="#2196F3" opacity="0.3"/>
+  <text x="95" y="42" font-family="monospace" font-size="26" fill="#ffffff" font-weight="bold">STANDALONE PROJECTS</text>
+  <text x="95" y="62" font-family="monospace" font-size="12" fill="#888888">INDEPENDENT UNITS &amp; ASSETS</text>
+  <line x1="45" y1="72" x2="100%" y2="72" stroke="#333" stroke-width="1"/>
+</svg>
 
 >**[Floppyti - A MIDI Floppy-Drive Music Player](https://github.com/gom9000/floppyti)**<br/>
 >**Type**: Expander Audio | **Status**: Completed
@@ -60,12 +73,18 @@ BOX Projects are dedicated hardware units designed to solve specific audio manag
 
 ---
 
-### Hosted Projects
-<br/><img src="resources/banner-hosted-project.svg" width="100%" alt="Hosted Project Banner">
-...
+
+<svg width="100%" height="80" viewBox="0 0 * 80" preserveAspectRatio="xMinYMid meet" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="80" fill="#1a1a1a"/>
+  <path d="M45 25h35v22H45zM52 47h20v3H52z" fill="none" stroke="#FFC107" stroke-width="2"/>
+  <rect x="49" y="29" width="27" height="14" fill="#FFC107" opacity="0.3"/>
+  <text x="95" y="42" font-family="monospace" font-size="26" fill="#ffffff" font-weight="bold">HOSTED PROJECTS</text>
+  <text x="95" y="62" font-family="monospace" font-size="12" fill="#888888">VST PLUGINS &amp; HOST-DEPENDENT TOOLS</text>
+  <line x1="45" y1="72" x2="100%" y2="72" stroke="#333" stroke-width="1"/>
+</svg>
 
 >**[gosDelay - VST Simple Delay Effect](https://github.com/gom9000/gosDelay)**<br/>
->**Type**: Standalone Project | **Status**: Completed
+>**Type**: VST Effect | **Status**: Completed
 >
 >...
 
