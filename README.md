@@ -2,7 +2,7 @@
 Personal hub of music-related repositories, organized by category.
 
 This suite represents the fusion of my digital workbench and my musical inclination.<br/>
-The projects collected here range from bare-metal firmware designed to make vintage hardware sing, to custom-built boxes for the stage. Alongside completed instruments ready for the gig, there are transcriptions in progress and sawdast of MIDI messages.
+The projects collected here range from bare-metal firmware designed to make vintage hardware sing, to custom-built boxes for the stage. Alongside completed instruments ready for the gig, there are transcriptions in progress and sawdust of MIDI messages.
 
 ---
 
