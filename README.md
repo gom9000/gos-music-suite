@@ -40,7 +40,7 @@ The projects collected here range from bare-metal firmware designed to make vint
 >
 >A hardware-based MIDI instrument that converts MIDI-IN messages into musical notes by controlling the stepper motor of a standard floppy disk drive. The system features a bare-metal implementation on a PIC 16F628A microcontroller and custom hardware designed to interface the MIDI protocol and the drive's stepper control interface.
 
->**[The Bank Side of The Genesis](https://github.com/gom9000/the-banks-side-of-the-genesis)**<br/>
+>**[The Banks Side of The Genesis](https://github.com/gom9000/the-banks-side-of-the-genesis)**<br/>
 >**Type**: Music Sheet | **Status**: Ongoing
 >
 >A personal archive (working scores for a tribute band) of keyboard transcriptions and study scores for Genesis music. All sheets are written using the LilyPond typesetting system, focusing on the intricate textures of the "Banks side" of the band's discography.
